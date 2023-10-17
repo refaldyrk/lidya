@@ -10,7 +10,7 @@ go install github.com/refaldyrk/lidya
 
 To get started with Lidya, follow these simple instructions:
 
-1. Install Lidya (Instructions on how to install Lidya can be found [here](https://github.com/lidya/#Install)).
+1. Install Lidya (Instructions on how to install Lidya can be found [here](https://github.com/refaldyrk/lidya/#Install)).
 
 2. Use the following command to share your code:
 

@@ -4,7 +4,7 @@ Lidya is a command-line tool designed to help you share your code in a beautiful
 
 ## Install
 ```bash
-go install github.com/refaldyrk/lidya
+go install github.com/refaldyrk/lidya@latest
 ```
 ## Usage
 

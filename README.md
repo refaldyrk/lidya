@@ -2,11 +2,15 @@
 
 Lidya is a command-line tool designed to help you share your code in a beautiful and convenient way. Whether you want to showcase your coding skills, collaborate with others, or simply share a piece of code, Lidya makes it easy and stylish.
 
+## Install
+```bash
+go install github.com/refaldyrk/lidya
+```
 ## Usage
 
 To get started with Lidya, follow these simple instructions:
 
-1. Install Lidya (Instructions on how to install Lidya can be found [here](https://github.com/lidya/share-your-code-beautiful)).
+1. Install Lidya (Instructions on how to install Lidya can be found [here](https://github.com/lidya/#Install)).
 
 2. Use the following command to share your code:
 
